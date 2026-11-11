@@ -1,3 +1,14 @@
+> **CultureReset fork of [jpillora/chisel](https://github.com/jpillora/chisel).** A fast TCP/UDP tunnel over HTTP.
+>
+> - **Why it is here:** The pinned source behind NODE's `node-tunnel` component, which builds chisel from a fixed commit instead of downloading a binary.
+> - **Does anything run from it:** No service runs from this fork directly.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/jpillora/chisel).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Chisel
 
 [![GoDoc](https://godoc.org/github.com/jpillora/chisel?status.svg)](https://godoc.org/github.com/jpillora/chisel) [![CI](https://github.com/jpillora/chisel/workflows/CI/badge.svg)](https://github.com/jpillora/chisel/actions?workflow=CI)
